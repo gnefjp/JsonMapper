@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonMapper/JsonDecoder.hpp"
+            timestampString = "483978781.539083"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "list(T &amp;toList, const Json::Value &amp;jsonValue, const std::string &amp;key)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void JsonDecodeDetail::list&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt; &gt;(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, Json::Value const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)"
+                  moduleName = "JsonMapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paifengjiang/Projects/JsonMapper/JsonMapper/JsonDecoder.hpp"
+                  timestampString = "483978909.874744"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void JsonDecodeDetail::list&lt;std::__1::vector&lt;SimpleObject, std::__1::allocator&lt;SimpleObject&gt; &gt; &gt;(std::__1::vector&lt;SimpleObject, std::__1::allocator&lt;SimpleObject&gt; &gt;&amp;, Json::Value const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)"
+                  moduleName = "JsonMapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paifengjiang/Projects/JsonMapper/JsonMapper/JsonDecoder.hpp"
+                  timestampString = "483978909.874866"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
